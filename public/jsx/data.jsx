@@ -46,7 +46,7 @@ let allDataObj = [
         imagesPC : '/img/KFC/KFCfull.jpg', 
         imagesTB : '/img/KFC/ipad.png', 
         imagesMB : '/img/KFC/mobile.png', 
-        weblink : 'https://jjh1129jh.github.io/kfc/',
+        weblink : 'https://jhkfc.vercel.app/',
         bgcolor : '#9c1621',
         textcolor : 'rgb(238, 238, 238)'
     },
@@ -63,7 +63,7 @@ let allDataObj = [
         imagesPC : '/img/YILAN/pc.png', 
         imagesTB : '/img/YILAN/IPAD.png', 
         imagesMB : '/img/YILAN/mobile.png', 
-        weblink : 'https://jjh1129jh.github.io/yilan/',
+        weblink : 'https://jhyilan.vercel.app/',
         bgcolor : '#576954',
         textcolor : 'rgb(238, 238, 238)'
     },
@@ -80,7 +80,7 @@ let allDataObj = [
         imagesPC : '/img/NIKON/Pc.png', 
         imagesTB : '', 
         imagesMB : '/img/NIKON/Mobile.png', 
-        weblink : 'https://jjh1129jh.github.io/nikon/',
+        weblink : 'https://jhnikon.vercel.app/',
         bgcolor : '#353535',
         textcolor : '#4b4b4b'
     },
@@ -97,7 +97,7 @@ let allDataObj = [
         imagesPC : '/img/DONGBANG/Pc.png', 
         imagesTB : '', 
         imagesMB : '', 
-        weblink : 'https://jjh1129jh.github.io/dongbang/',
+        weblink : 'https://jhdongbang.vercel.app/',
         bgcolor : '#131538',
         textcolor : 'hsla(0, 0%, 93%, 1.00)'
     },
@@ -114,7 +114,7 @@ let allDataObj = [
         imagesPC : '/img/PORTFOLIO/Pc.png', 
         imagesTB : '/img/PORTFOLIO/Tb.png', 
         imagesMB : '/img/PORTFOLIO/Mb.png', 
-        weblink : '',
+        weblink : 'https://old-portfolio-beta.vercel.app/',
         bgcolor : '#adadad',
         textcolor : 'rgb(238, 238, 238)'
     },
@@ -131,7 +131,7 @@ let allDataObj2 = [
         participants : '3명',
         responsibilities : '개발 및 디자인',
         images : '/img/PROJECT/Capture10.png', 
-        weblink : ['https://jjh1129jh.github.io/colorado'],
+        weblink : ['https://commercial-colorado.vercel.app/'],
         linktype : 'F',
         bgcolor : '#353535',
         objcolor : '#e3ba4e'
@@ -146,7 +146,7 @@ let allDataObj2 = [
         participants : '3명',
         responsibilities : '프로토타입 개발 및 양산',
         images : '/img/PROJECT/Capture11.png', 
-        weblink : ['https://jjh1129jh.github.io/art4/arte4.html'],
+        weblink : ['https://commercial-art4.vercel.app/'],
         linktype : 'F',
         bgcolor : '#9b9372ff',
         objcolor : '#f05a94'
@@ -161,7 +161,7 @@ let allDataObj2 = [
         participants : '5명 +',
         responsibilities : '프로토타입 개발 및 양산',
         images : '/img/PROJECT/Capture9.png', 
-        weblink : ['https://jjh1129jh.github.io/kolon/03/03_01.html','https://jjh1129jh.github.io/integrated/02/group1/02/02_04.html','https://jjh1129jh.github.io/integrated/02/group1/02/02_03.html','https://jjh1129jh.github.io/integrated/02/group2/03/03_04.html'],
+        weblink : ['https://commercial-kolon.vercel.app/03/03_01.html','https://commercial-integrated.vercel.app/02/group1/02/02_04.html','https://commercial-integrated.vercel.app/02/group1/02/02_03.html','https://commercial-integrated.vercel.app/02/group2/03/03_04.html'],
         linktype : 'W',
         bgcolor : '#9c1621',
         objcolor : 'coral'
@@ -176,7 +176,7 @@ let allDataObj2 = [
         participants : '2명',
         responsibilities : '개발 및 디자인',
         images : '/img/PROJECT/Capture8.png', 
-        weblink : ['https://jjh1129jh.github.io/integrated/01/01/01_01.html','https://jjh1129jh.github.io/integrated/01/04/04_01.html','https://jjh1129jh.github.io/integrated/01/03/03_01.html','https://jjh1129jh.github.io/integrated/01/03/03_02.html'],
+        weblink : ['https://commercial-integrated.vercel.app/01/01/01_01.html','https://commercial-integrated.vercel.app/01/04/04_01.html','https://commercial-integrated.vercel.app/01/03/03_01.html','https://commercial-integrated.vercel.app/01/03/03_02.html'],
         linktype : 'W',
         bgcolor : '#66687eff',
         objcolor : '#325175ff'
@@ -191,7 +191,7 @@ let allDataObj2 = [
         participants : '1명',
         responsibilities : '단독 프로젝트',
         images : '/img/PROJECT/Capture7.png', 
-        weblink : ['https://jjh1129jh.github.io/inspection'],
+        weblink : ['https://commercial-inspection.vercel.app/'],
         linktype : 'F',
         bgcolor : '#8294a8ff',
         objcolor : '#4a88d4ff'
@@ -206,7 +206,7 @@ let allDataObj2 = [
         participants : '2명',
         responsibilities : '개발 및 디자인',
         images : '/img/PROJECT/Capture6.png', 
-        weblink : ['https://jjh1129jh.github.io/daeguhanui/01/01_01.html'],
+        weblink : ['https://commercial-daeguhanui.vercel.app/01/01_01.html'],
         linktype : 'W',
         bgcolor : '#19363c',
         objcolor : '#269da9'
@@ -221,7 +221,7 @@ let allDataObj2 = [
         participants : '2명',
         responsibilities : '개발 및 디자인',
         images : '/img/PROJECT/Capture5.png', 
-        weblink : ['https://jjh1129jh.github.io/garden/01/01_01.html'],
+        weblink : ['https://commercial-garden.vercel.app/01/01_02.html'],
         linktype : 'W',
         bgcolor : '#435536ff',
         objcolor : '#006b5f'
